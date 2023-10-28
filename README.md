@@ -6,7 +6,7 @@ all the code is in "Index.html" in the "main" branch.
 
 # Website domains
 
-Main (hosted by me, recommended option):
+Main (managed by me, recommended option):
 https://artin.pages.dev/
 
 Github:
