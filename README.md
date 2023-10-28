@@ -6,7 +6,7 @@ all the code is in "Index.html" in the "main" branch.
 
 # Website domains
 
-Main (recommended):
+Main (hosted by me, recommended option):
 https://artin.pages.dev/
 
 Github:
@@ -14,3 +14,8 @@ https://artin-fathzadeh.github.io/artin/
 
 Netlify:
 https://artinf.netlify.app/
+
+
+# Contact
+
+Please report any errors, feedback, questions, or any other concerns you may have regarding the following text: 
