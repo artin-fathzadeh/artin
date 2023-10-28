@@ -22,4 +22,4 @@ Please report any errors, feedback, questions, or any other concerns you may hav
 
 You can also submit an issue at (issue specific); https://github.com/artin-fathzadeh/artin/issues
 
-If you would prefer to email me you can contact; mailto:artinf@zohomail.com (mailto: command, I have added it purposefully but it will redirect you to your default mailing app, you can also paste in the email manually; artinf@zohomail.com)
+If you would prefer to email me you can contact; mailto:artinf@zohomail.com (mailto: command, I have added it purposefully but it will redirect you to your default mailing app, you can also paste in the email manually; # artinf@zohomail.com)
