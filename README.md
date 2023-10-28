@@ -18,6 +18,8 @@ https://artinf.netlify.app/
 
 # Contact
 
-Please report any errors, feedback, questions, or any other concerns you may have here; 
+Please report any errors, feedback, questions, or any other concerns you may have here (recommended); 
 
-If you would prefer to email me you can contact; artinf@zohomail.com
+You can also submit an issue at (issue specific); https://github.com/artin-fathzadeh/artin/issues
+
+If you would prefer to email me you can contact; mailto:artinf@zohomail.com (mailto: command)
