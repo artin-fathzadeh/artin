@@ -18,4 +18,6 @@ https://artinf.netlify.app/
 
 # Contact
 
-Please report any errors, feedback, questions, or any other concerns you may have regarding the following text: 
+Please report any errors, feedback, questions, or any other concerns you may have here; 
+
+If you would prefer to email me you can contact; artinf@zohomail.com
