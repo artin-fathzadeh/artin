@@ -6,14 +6,13 @@ all the code is in "Index.html" in the "main" branch.
 
 # Website domains
 
-Main (managed by me, recommended option):
-https://artin.pages.dev/
+(Main)[artinf.me/artin] (hosted by me, recommended option)
 
-Github:
-https://artin-fathzadeh.github.io/artin/
 
-Netlify:
-https://artinf.netlify.app/
+(Subdomain)[https://artin.pages.dev/] (hosted by cloudflare)
+
+
+(Netlify)[https://artinf.netlify.app/] (hosted by netlify)
 
 
 # Contact
